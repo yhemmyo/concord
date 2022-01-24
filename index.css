@@ -1,0 +1,275 @@
+.nav-bar li{
+    list-style-type: none;
+    margin: 50px;
+    padding: 0;
+    display: inline;
+    float: right;
+    overflow: hidden;
+}
+.nav-bar li a {
+    text-decoration: none;
+    display: block;
+    color: grey;
+   
+}
+.active {
+    background-color: red;
+}
+
+
+header .logo {
+    width: 2px;
+    height: auto;
+    margin-top: 0px;
+    size: 15cm;
+   max-width: 100%;
+}
+
+.join li {
+    border-radius: red 10px solid;
+}
+
+.davido{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+.davido span{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.dude img{
+    float: right;
+    width: 50%;
+    height: 100%;
+   border-radius: 45px 5px ;
+  
+}
+
+.about {
+    text-decoration: underline red;
+    float: left;
+    width: 100%;
+   text-align: center;
+   font-size: 30px;
+}
+
+.lady img{
+    float: left;
+    width: 50%;
+    height: 100%;
+    border-radius: 50px;
+}
+
+.wurld{
+    float: right;
+    width: 50%;
+    height: 100%;
+        
+}
+
+.works {
+    float: left;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: underline red;
+}
+
+.join a {
+    border-radius: red 50px;
+    color: red;
+}
+
+.people {
+    float: left;
+    width: 33.3%;
+    height: 50%;
+}
+
+.remote {
+    float: left;
+    width: 33.3%;
+    height: 50%;
+}
+
+.courses{
+    float: right;
+    width: 33.3%;
+    height: 50%;
+}
+
+.bootcamps {
+    float: left;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+
+.jobs{
+    float: right;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+   
+}
+
+.trust{
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    text-decoration: underline red;
+}
+
+.trust span{
+color: red;
+}
+
+.fam {
+    align-items: center;
+}
+
+.imin {
+    width: 33.3%;
+    height: 100%;
+    float: left;
+    text-align: center;
+  
+  
+}
+
+.jmin {
+    width: 33.3%;
+    height: 100%;
+    float: left;
+    text-align: center;
+   
+  
+}
+
+.kmin {
+    width: 33.3%;
+    height: 100%;
+    float: right;
+    text-align: center;
+  
+}
+
+/* .enrolla {
+    box-shadow: red;
+    width: 100%;
+    height: 100%; */
+
+
+.enrolling input [type=submit]{ 
+    width: 100%;
+    height: 100%;
+    font-size: 1.5em;
+    background-color: red;
+}
+
+
+.enrolling a {
+    text-decoration: none;
+    color: red;
+    background-color: red;
+    border-radius: 1.8em 2em 1.2em 0;
+   /* margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-size: 1.5em; */
+}
+
+.what {
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+.what img{
+border-radius: 20px 100px;
+}
+
+.message{
+    float: right;
+    width: 50%;
+    height: 100%;
+}
+
+.message input{
+width: 50%;
+padding: 8px 2px;
+margin: 8px 0;
+/* background-color: rgb(226, 223, 223); */
+
+}
+
+.message input[type=submit] {
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    width: 500px;
+}
+
+.nevernever {
+    padding: 20px 2px;
+    float: left;
+    width: 100%;
+    height: 100%;
+    margin: 18px 0;
+    background-color: red;
+    color: white;
+    text-align: center;
+    
+    
+}
+
+.everever {
+float: right;
+width: 50%;
+height: 100%;
+
+}
+
+.everever input{
+    background-color: white;
+    padding: 8px 2px;
+    border: white;
+    border-radius: 10px;
+}
+
+.everever input[type=submit]{
+    background-color: rgb(82, 11, 11);
+}
+
+
+.yops{
+    float: left;
+    width: 33.3%;
+    
+}
+
+
+.yaps{
+    float: left;
+    width: 33.3%;
+  
+
+}
+
+.yaps li {
+    list-style-type: none;
+}
+
+.yips{
+    float: right;
+    width: 33.3%;
+  
+}
